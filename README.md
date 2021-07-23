@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nchawra2
 - 👀 I’m interested in WEB DEVELOPMENT 
-- 🌱 I’m currently learning REACT JS
+- 🌱  MERN STACK DEVELOPER
 - 📫 How to reach me n1chawra@yahoo.com
 
 <!---
