@@ -2,6 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT 
 - 🌱  MERN STACK DEVELOPER
 - 📫 How to reach me n1chawra@gmail.com
+- https://nc-resume.netlify.app/
 
 
 
